@@ -27,8 +27,12 @@ The page uses Graphik (Regular 400, Medium 500, Semibold 600, Bold 700). The fon
 
 Without the files, the page falls back to Arial.
 
-## Editing content
+## Editing Content
 
 - Perk amounts and terms were shared verbally in the session. Check each perk page before updating.
 - Brand colors live in `:root` in `css/styles.css`. Crimson (`--crimson`) is for the one headline phrase only.
-- Recordings:\n- Perks Overview: https://www.loom.com/share/2cafd19bdf2742edad156978fbfac5cb\n- Hone in on your first venture: https://www.loom.com/share/883ce80db5ad47eca3fefd9dcd2ad5f8
+
+## Recordings
+
+- Perks Overview: https://www.loom.com/share/2cafd19bdf2742edad156978fbfac5cb
+- Hone in on your first venture: https://www.loom.com/share/883ce80db5ad47eca3fefd9dcd2ad5f8
