@@ -1,11 +1,14 @@
 # Foundry Founder Resources
 
-Founder-facing Bootcamp calendar, session recaps, and practical resources from HBS Foundry.
+Founder-facing FAQ, Bootcamp calendar, session recaps, and practical resources from HBS Foundry.
 
 ## Files
 
 ```
-index.html                         Landing page and Bootcamp calendar markup
+index.html                         Resource hub landing page
+faq.html                           Frequently asked questions
+calendar.html                      Bootcamp live-session calendar
+library.html                       Session recap and content library
 sessions/perks-overview.html        Perks Guide session recap
 sessions/hone-in-on-your-first-venture.html  Venture session recap
 css/styles.css                     Shared styles (brand tokens at the top in :root)
