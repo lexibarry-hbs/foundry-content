@@ -102,10 +102,14 @@ h1 .hl {
 }
 .video img {
   width:100%;
+  height:auto;
   max-width:100%;
-  aspect-ratio:16/9;
+  aspect-ratio:auto;
+  object-fit:contain;
+  object-position:center;
   border-radius:10px;
   display:block;
+  align-self:start;
 }
 .video .vt {
   font-weight:600;
