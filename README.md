@@ -11,7 +11,8 @@ sessions/hone-in-on-your-first-venture.html  Venture session recap
 css/styles.css                     Shared styles (brand tokens at the top in :root)
 js/main.js                         Expand/collapse FAQ and copy-email button
 assets/hbs-foundry-logo.svg        Official HBS Foundry lockup (light backgrounds). Don't edit.
-assets/perks-overview-thumbnail.jpg  Loom thumbnail, 1280x720
+assets/perks-overview-thumbnail.jpg  Perks Loom thumbnail, 1280x720
+assets/hone-in-on-your-first-venture-thumbnail.png  Venture Loom thumbnail, 1920x1080
 fonts/                             Empty. Add licensed Graphik web fonts here.
 ```
 
